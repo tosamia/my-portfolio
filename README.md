@@ -8,11 +8,12 @@ This portfolio showcases my projects, technical skills, learning journey, and ex
 
 ## 🌐 Live Website
 
-🔗 [Visit My Portfolio](https://my-portfolio-virid-nu-81.vercel.app/)
+[Visit My Portfolio](https://my-portfolio-virid-nu-81.vercel.app/)
 
 ## 📸 Portfolio Preview
 
-![Portfolio Preview](./portfolio-preview.png)
+![My Portfolio Screenshot](./public/portfolio-preview.png)
+
 
 ## 👩‍💻 About Me
 
